@@ -14,7 +14,7 @@ function Header() {
                             style={{ width: "40px", height: "40px", objectFit: "contain" }} 
                             className="me-2"
                         />
-                        <span className="fs-5 fw-bold">BookStore&reg;</span>
+                        <span className="fs-5 fw-bold">RoyBookStore&reg;</span>
                     </a>
                 </div>
 
